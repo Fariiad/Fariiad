@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @Fariiad
-- 🌱 I’m currently learning full stack web developer!
+- 🌱 I’m  full stack web developer!
 
 
 
